@@ -2,7 +2,7 @@
 
 An interactive machine learning web app that detects whether a banknote is **genuine** or **forged**, using a K-Nearest Neighbors (KNN) classifier tuned with GridSearchCV — built with Scikit-learn and deployed with Streamlit.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here]
+🔗 **Live Demo:** https://banknote-appentication-ml-raafe.streamlit.app/
 
 ---
 
